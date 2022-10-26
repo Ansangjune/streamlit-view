@@ -4,7 +4,7 @@ import pandas as pd
 
 view = [100, 150, 30]
 
-st.write('# Sangjun's page')
+st.write('# Sangjun page')
 st.write("## raw")
 view
 st.write('## bar chart')
