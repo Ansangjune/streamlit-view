@@ -2,9 +2,9 @@
 import streamlit as st
 import pandas as pd
 
-view = [10, 150, 30]
+view = [100, 150, 30]
 
-st.write('# Youtube view')
+st.write('# Sangjun's page')
 st.write("## raw")
 view
 st.write('## bar chart')
